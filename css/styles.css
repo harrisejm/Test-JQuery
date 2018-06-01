@@ -1,0 +1,43 @@
+.hawks-showing {
+  display: none;
+}
+
+.js-showing {
+  display: none;
+}
+
+.num-showing {
+  display: none;
+}
+
+
+.hello {
+  display: none;
+}
+
+.box1 {
+  height: 120px;
+}
+
+.toggle {
+  background-color: #1E90FF;
+  box-shadow: 5px 5px 5px black;
+  color: white;
+}
+button:active {
+  box-shadow: 2px 2px 2px #003300;
+  transform: translate(3px, 3px);
+}
+
+
+.form-group {
+  width: 200px;
+}
+
+.moveT {
+  display: none;
+}
+
+#story {
+  display: none;
+}
